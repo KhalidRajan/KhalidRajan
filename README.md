@@ -1,4 +1,4 @@
-👋 # Hey, I’m @KhalidRajan!
+👋 #Hey, I’m @KhalidRajan!
 
 
 👀 I’m interested in Full-Stack Web Development and Machine Learning. 
