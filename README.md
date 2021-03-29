@@ -1,7 +1,7 @@
 - 👋 Hey, I’m @KhalidRajan!
 - 👀 I’m interested in Full-Stack Web Development and Machine Learning.  
 - 🌱 I’m currently learning Full-Stack Web Development utilizing a MERN stack.
-- 📫 Please feel free to contact me khalidrajan14@gmail.com and connect on LinkedIn!
+- 📫 Please feel free to contact me khalidrajan14@gmail.com and connect on [LinkedIn] (https://www.linkedin.com/in/khalid-rajan-620771156/)!
 
 <!---
 KhalidRajan/KhalidRajan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
