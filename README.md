@@ -6,11 +6,13 @@
 📫 Please feel free to contact me khalidrajan14@gmail.com and connect with me on LinkedIn!
 
 Languages:
+
 -Python
 -Java
 -JavaScript
 
 Frameworks:
+
 -Node.Js
 -Express.Js
 -jQuery
@@ -21,6 +23,7 @@ Frameworks:
 -TensorFlow
 
 Databases:
+
 -MySQL
 -MongoDB
 
