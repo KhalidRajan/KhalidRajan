@@ -7,7 +7,7 @@
 
 Languages: Python, Java, JavaScript
 
-Frameworks: Node.Js, Express.Js, React.js, jQuery, Pandas, Matplotlib, Plotly, Sci-kit Learn, NLTK, SpaCy, TensorFlow
+Frameworks: Node.Js, Express.Js, React.js, jQuery, Pandas, Matplotlib, Plotly, Sci-kit Learn, NLTK, SpaCy, TensorFlow, OpenCV
 
 Databases: MySQL, MongoDB
 
