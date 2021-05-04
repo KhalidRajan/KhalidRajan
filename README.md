@@ -1,7 +1,9 @@
 👋 Hey, I’m @KhalidRajan!
 
 
-👀 I’m interested in Full-Stack Web Development and Machine Learning.  
+👀 I’m interested in Full-Stack Web Development and Machine Learning.
+
+🔨 I build software applications with Python, JavaScript, Java, MySQL, and MongoDb.
 
 📫 Please feel free to contact me khalidrajan14@gmail.com and connect with me on LinkedIn!
 
