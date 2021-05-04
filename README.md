@@ -5,7 +5,7 @@
 
 🔨 I build software applications with Python, JavaScript, Java, MySQL, and MongoDb.
 
-📫 Please feel free to contact me khalidrajan14@gmail.com and connect with me on LinkedIn!
+📫 Please feel free to contact me at khalidrajan14@gmail.com and connect with me on LinkedIn!
 
 <!---
 KhalidRajan/KhalidRajan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
