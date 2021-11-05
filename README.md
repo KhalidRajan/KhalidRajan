@@ -5,7 +5,7 @@
 
 🔨 I build software applications with Python, JavaScript, Java, MySQL, and MongoDb.
 
-Web Frameworks: React.js, Node.js, jQuery, CSS, BootStrap
+Web Frameworks: React.js, Node.js, CSS
 
 Databases: MySQL, MongoDB
 
